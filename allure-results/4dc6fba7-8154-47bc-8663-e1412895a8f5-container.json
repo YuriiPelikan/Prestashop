@@ -1,1 +1,0 @@
-{"uuid":"4dc6fba7-8154-47bc-8663-e1412895a8f5","name":"TestCartFunctional","children":["2ee003ec-8fe9-4af0-bf4d-4d506b5e7356"],"befores":[{"name":"Start","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1564387907391,"stop":1564387915013}],"afters":[],"links":[],"start":1564387907243,"stop":1564387922421}

@@ -1,6 +1,7 @@
 package tools;
 
 import io.qameta.allure.Attachment;
+import org.apache.commons.io.FileUtils;
 import org.openqa.selenium.OutputType;
 import org.openqa.selenium.TakesScreenshot;
 import org.testng.ITestResult;
@@ -59,35 +60,34 @@ public abstract class TestRunner {
     }
 
 
-    public String getFileName() {
-        String currentTime = new SimpleDateFormat("yyyy-MM-dd_HH-mm-ss").format(new Date());
-        return "./" + currentTime + "_screenshot.png";
+    @Attachment(value = "Web Page Screenshot", type = "image/png")
+    public byte[] takeScreenshot() {
+        // Take a screenshot as byte array and return
+        return ((TakesScreenshot)driver).getScreenshotAs(OutputType.BYTES);
     }
 
-    @Attachment(value = "{0}", type = "image/png")
-    public byte[] saveImageAttach(String attachName) {
-        byte[] result = null;
-        File scrFile = ((TakesScreenshot) driver).getScreenshotAs(OutputType.FILE);
-        try {
-            result = Files.readAllBytes(scrFile.toPath());
-        } catch (IOException e) {
-            // TODO Create Custom Exception
-            e.printStackTrace();
+
+
+    @AfterMethod
+    public void afterMethod(ITestResult testResult) {
+        if (!testResult.isSuccess()) {
+            takeScreenshot();
+          //  driver.get("http://regres.herokuapp.com/logout");
         }
-        return result;
     }
+
+
+
 
     @AfterClass(alwaysRun = true)
     public void tearDown() {
         driver.quit();
     }
 
-    @AfterMethod
-    public void afterMethod(ITestResult testResult) {
-        if (!testResult.isSuccess()) {
-            saveImageAttach(getFileName());
-            driver.get("http://regres.herokuapp.com/logout");
-        }
-    }
+
+
+
+
 
 }
+

@@ -22,7 +22,7 @@ public class TestCartFunctional extends TestRunner {
         ShoppingCartPage shoppingCartPage = new ShoppingCartPage(driver);
         shoppingCartPage.clickOrderButton();
 
-        Assert.assertTrue(shoppingCartPage.getProductNameText().equals("Hummingbird printed t-shirt"));
+        Assert.assertTrue(shoppingCartPage.getProductNameText().equals("ummingbird printed t-shirt"));
     }
 
     @Test

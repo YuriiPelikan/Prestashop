@@ -42,15 +42,4 @@ public class ProductListComponent {
 
     }
 
-    public List<String> getProductsNameList() {
-        List<String> result = new ArrayList<String>();
-        for (ProductComponent current : getProductComponents()) {
-            result.add(current.getNameText());
-        }
-        return result;
-    }
-
-    public void AddToCartByPartialName(String partialProductName) {
-        getProductComponentByPartialName(partialProductName);
-    }
 }

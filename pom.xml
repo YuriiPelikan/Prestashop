@@ -78,6 +78,27 @@
                 <target>1.8</target>
             </configuration>
         </plugin>
+
+
+
+
+        <plugin>
+            <groupId>org.codehaus.mojo</groupId>
+            <artifactId>exec-maven-plugin</artifactId>
+            <version>1.2.1</version>
+            <executions>
+                <execution>
+                    <id>post-integration-test</id>
+                    <goals>
+                        <goal>exec</goal>
+                    </goals>
+                    <phase>post-integration-test</phase>
+                    <configuration>
+                        <executable>runallure.bat</executable>
+                    </configuration>
+                </execution>
+            </executions>
+        </plugin>
     </plugins>
 </pluginManagement>
 </build>
