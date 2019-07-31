@@ -1,11 +1,11 @@
 package test;
 
-import tools.TestRunner;
 import org.testng.Assert;
 import org.testng.annotations.Test;
 import pages.HomePage;
 import pages.SelectSomeClothesPage;
 import pages.ShoppingCartPage;
+import tools.TestRunner;
 
 public class TestCartFunctional extends TestRunner {
 
@@ -17,12 +17,12 @@ public class TestCartFunctional extends TestRunner {
 
         SelectSomeClothesPage clothesPage = new SelectSomeClothesPage(driver);
         clothesPage.clickToAddButton();
-        delayExecution(1000);
+        delayExecution(1500);
 
         ShoppingCartPage shoppingCartPage = new ShoppingCartPage(driver);
         shoppingCartPage.clickOrderButton();
 
-        Assert.assertTrue(shoppingCartPage.getProductNameText().equals("ummingbird printed t-shirt"));
+        Assert.assertTrue(shoppingCartPage.getProductNameText().equals("Hummingbird printed t-shirt"));
     }
 
     @Test
@@ -33,11 +33,11 @@ public class TestCartFunctional extends TestRunner {
 
         SelectSomeClothesPage clothesPage = new SelectSomeClothesPage(driver);
         clothesPage.clickToAddButton();
-        delayExecution(1000);
+        delayExecution(1500);
 
         ShoppingCartPage shoppingCartPage = new ShoppingCartPage(driver);
         shoppingCartPage.clickOrderButton();
-        delayExecution(1000);
+        delayExecution(1500);
         shoppingCartPage.clickDeleteButton();
 
         Assert.assertTrue(shoppingCartPage.getProductMessageText().equals("There are no more items in your cart"));
@@ -51,16 +51,32 @@ public class TestCartFunctional extends TestRunner {
 
         SelectSomeClothesPage clothesPage = new SelectSomeClothesPage(driver);
         clothesPage.clickToAddButton();
-        delayExecution(1000);
+        delayExecution(1500);
 
         ShoppingCartPage shoppingCartPage = new ShoppingCartPage(driver);
         shoppingCartPage.clickOrderButton();
-        delayExecution(1000);
-        
+        delayExecution(1500);
+
         shoppingCartPage.clickIncreaseAmountButton();
-        delayExecution(1000);
+        delayExecution(1500);
 
         Assert.assertTrue(shoppingCartPage.getProductPriceText().equals("$38.24"));
+    }
+
+    @Test
+    protected void wrongAddProductToCart() {
+
+        HomePage homePage = new HomePage(driver);
+        homePage.getProductsListComponent().getProductComponentByPartialName("Hummingbird Printed T-Shirt").clickToProduct();
+
+        SelectSomeClothesPage clothesPage = new SelectSomeClothesPage(driver);
+        clothesPage.clickToAddButton();
+        delayExecution(1500);
+
+        ShoppingCartPage shoppingCartPage = new ShoppingCartPage(driver);
+        shoppingCartPage.clickOrderButton();
+
+        Assert.assertTrue(shoppingCartPage.getProductNameText().equals("Rummingbird printed t-shirt"));
     }
 
 }
