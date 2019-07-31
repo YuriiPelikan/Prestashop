@@ -2,12 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1c94c80e-4c05-47ba-958b-7d6ac560b3c6" name="Default Changelist" comment="screenshot">
-<<<<<<< HEAD
       <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-=======
       <change afterPath="$PROJECT_DIR$/src/test/java/test/AllureTestCurrency.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
->>>>>>> 856e788de10552b9fb4788f8e2594b21a44045cc
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/allure-results/008029d3-0c16-4217-9d15-9197f1f8b850-container.json" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/allure-results/0208a9ff-4a47-45b1-925d-70ba29d8ea9d-container.json" beforeDir="false" />
@@ -98,13 +95,10 @@
       <change beforePath="$PROJECT_DIR$/allure-results/f8431179-5190-41bc-ab53-566428c62682-container.json" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/allure-results/f9ca61d2-48ed-486a-bba6-7d3e2e71d0b9-container.json" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/allure-results/f9dfbbab-8637-4ed6-b68f-a7796739c10f-container.json" beforeDir="false" />
-<<<<<<< HEAD
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/test/TestCartFunctional.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/test/TestCartFunctional.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/test/TestSearch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/test/TestSearch.java" afterDir="false" />
-=======
       <change beforePath="$PROJECT_DIR$/src/test/java/tools/TestRunner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/tools/TestRunner.java" afterDir="false" />
->>>>>>> 856e788de10552b9fb4788f8e2594b21a44045cc
       <change beforePath="$PROJECT_DIR$/target/classes/data/Category.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/data/Category.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/data/Currencies.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/data/Currencies.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/pages/AHeadComponent$DropdownOptions.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/pages/AHeadComponent$DropdownOptions.class" afterDir="false" />
@@ -178,18 +172,18 @@
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
-      <recent name="" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\Programing\IntelliJ IDEA Projects\SET\prestashop\src\test\java\com\softserve\edu\prestashop\pages" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\Programing\IntelliJ IDEA Projects\SET\prestashop\src\test\java\test" />
       <recent name="D:\Programing\IntelliJ IDEA Projects\SET\prestashop\src\main\java\pages" />
       <recent name="D:\Programing\IntelliJ IDEA Projects\SET\prestashop\src\main\java\data" />
       <recent name="D:\Programing\IntelliJ IDEA Projects\SET\prestashop\src\main\resources" />
       <recent name="D:\Programing\IntelliJ IDEA Projects\SET\prestashop\src\test\java" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Programing\IntelliJ IDEA Projects\SET\prestashop\src\test\java\com\softserve\edu\prestashop\pages" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -204,23 +198,8 @@
       </list>
     </option>
   </component>
-<<<<<<< HEAD
-  <component name="RunManager" selected="TestNG.TestSearch">
-    <configuration name="D:/Programing/IntelliJ IDEA Projects/SET/prestashop/testng.xml" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="prestashop" />
-      <option name="SUITE_NAME" value="$PROJECT_DIR$/testng.xml" />
-      <option name="TEST_OBJECT" value="SUITE" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="HorizontalAndVerticalTest" type="TestNG" temporary="true" nameIsGenerated="true">
-=======
   <component name="RunManager" selected="TestNG.AllureTestCurrency">
     <configuration name="AllureTestCurrency" type="TestNG" temporary="true" nameIsGenerated="true">
->>>>>>> 856e788de10552b9fb4788f8e2594b21a44045cc
       <module name="prestashop" />
       <extension name="coverage">
         <pattern>
@@ -300,19 +279,15 @@
     </configuration>
     <recent_temporary>
       <list>
-<<<<<<< HEAD
         <item itemvalue="TestNG.TestSearch" />
         <item itemvalue="TestNG.D:/Programing/IntelliJ IDEA Projects/SET/prestashop/testng.xml" />
         <item itemvalue="TestNG.TestCartFunctional" />
         <item itemvalue="TestNG.HorizontalAndVerticalTest" />
-        <item itemvalue="TestNG.StartTest" />
-=======
         <item itemvalue="TestNG.AllureTestCurrency" />
         <item itemvalue="TestNG.D:/Programing/IntelliJ IDEA Projects/SET/prestashop/testng.xml" />
         <item itemvalue="TestNG.TestCartFunctional" />
         <item itemvalue="TestNG.HorizontalAndVerticalTest" />
         <item itemvalue="TestNG.TestSearch" />
->>>>>>> 856e788de10552b9fb4788f8e2594b21a44045cc
       </list>
     </recent_temporary>
   </component>
