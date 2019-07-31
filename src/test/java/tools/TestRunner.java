@@ -60,21 +60,21 @@ public abstract class TestRunner {
     }
 
 
-    @Attachment(value = "Web Page Screenshot", type = "image/png")
-    public byte[] takeScreenshot() {
-        // Take a screenshot as byte array and return
-        return ((TakesScreenshot)driver).getScreenshotAs(OutputType.BYTES);
-    }
-
-
-
-    @AfterMethod
-    public void afterMethod(ITestResult testResult) {
-        if (!testResult.isSuccess()) {
-            takeScreenshot();
-          //  driver.get("http://regres.herokuapp.com/logout");
-        }
-    }
+//    @Attachment(value = "Web Page Screenshot", type = "image/png")
+//    public byte[] takeScreenshot() {
+//        // Take a screenshot as byte array and return
+//        return ((TakesScreenshot)driver).getScreenshotAs(OutputType.BYTES);
+//    }
+//
+//
+//
+//    @AfterMethod
+//    public void afterMethod(ITestResult testResult) {
+//        if (!testResult.isSuccess()) {
+//            takeScreenshot();
+//          //  driver.get("http://regres.herokuapp.com/logout");
+//        }
+//    }
 
 
 
