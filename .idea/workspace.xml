@@ -2,119 +2,19 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1c94c80e-4c05-47ba-958b-7d6ac560b3c6" name="Default Changelist" comment="screenshot">
+      <change afterPath="$PROJECT_DIR$/src/test/java/testAPI/testAPI.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/test/AllureTestCurrency.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-results/008029d3-0c16-4217-9d15-9197f1f8b850-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-results/0208a9ff-4a47-45b1-925d-70ba29d8ea9d-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-results/027b5c49-9a5d-48f0-afa2-151d8c33c1a2-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-results/02a5ceac-bd4a-4552-ad72-390e0369d808-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-results/03310b9b-15d3-4767-bb3b-1a84ef9d8db0-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-results/104d6558-b933-4695-b5b4-39eb2793cdf9-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-results/1240ea74-b7d4-421d-b77d-bd8445377842-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-results/13435924-e0d5-43e4-9ef8-decf120f15e2-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-results/1851ca38-7f5f-4c21-a5bd-8a63c944e128-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-results/18e3cf46-7295-49ae-b9fb-44056387e814-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-results/2378a8b9-0212-4484-8a48-0a359558581b-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-results/27356d54-89a9-462d-8d9a-9fbc485bd650-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-results/278219f4-236e-4bf5-a898-67bc58f030ff-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-results/299eb3b1-bbbf-427e-a482-d7afd2d3f31d-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-results/29c2118b-e4ca-4931-b15a-75240271a866-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-results/33a2d342-889a-46e8-abf2-710d1ebca3bc-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-results/34d5305c-a4f7-4950-8f04-2bafca7d31d3-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-results/3a640af3-7cd7-4342-81cd-a2131ab014b2-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-results/3bc3e8f1-9408-44ac-9493-ea5c1e57dc8e-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-results/44313077-5a5c-469a-b671-7a901c8e6f5a-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-results/544bc7a4-e207-4375-9a67-e4993912e8f9-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-results/550495fc-4c1b-44c8-8208-5546cabe5c96-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-results/5a6c01bf-2d2d-43cf-9765-61f3092bfe38-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-results/5e11678c-cd78-4d6b-ba62-9eacfb4da388-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-results/5ffdd2cf-3e5f-4588-aa0c-15504efba6b0-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-results/6861ab8a-a06f-4a05-910f-e8cfe89c393d-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-results/6a184dcb-d7e8-449c-a87b-f3277326b520-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-results/6c6388ad-959b-48af-acfe-400a6c23f800-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-results/6cf251ee-25c4-4128-bf47-88e61ce8e68c-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-results/70caa2e0-076a-4232-bd06-0e9216dea39d-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-results/735fc7bd-03c7-4523-b5e3-88894709d2ac-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-results/7554a53b-1b50-496f-9037-c4445e1da344-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-results/774c5fe2-5f21-4b98-b868-27cff1887141-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-results/79912794-c469-4af5-9aee-f12334cd9dde-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-results/7eb00e2e-9288-46a9-9c47-d81f04617aa3-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-results/7f33b55d-5b02-45b2-9ec1-20217b96d24f-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-results/8195bdf4-0b59-4290-82fc-c89f16d00d2f-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-results/826ad10a-3018-46ca-8d67-d5439ca03c6a-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-results/87ef8d54-b63b-403f-9c5e-01af797c32a9-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-results/8869b698-9491-456c-a859-68af388699de-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-results/8cbb57f0-e183-453a-a399-6ba8716e84e9-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-results/8cc1963f-7262-44f1-883a-d49b77317267-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-results/8d38e445-19ae-481d-8515-aa44f2e0ef37-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-results/8e6fa4d1-c575-43f8-8333-ef92d99c0f71-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-results/903fd6f2-4b30-44e8-ab1c-818edda2dfdf-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-results/905f5a11-d4d7-431f-a917-97885b924de8-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-results/91582fbc-68ef-4c8a-8c9c-c771014c7b5b-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-results/9190c8c2-dd54-4949-9bf5-b0701a51fb5c-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-results/9412883c-deed-44c7-aaca-0d1dbbd5ce79-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-results/9567f450-fff9-469e-9341-df5899cdc10e-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-results/969ff2ac-02a3-4138-a6b1-360c7dff8423-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-results/a0a3044f-3fa8-4198-be44-ce626baba03d-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-results/a27a91f8-ba7f-4bb3-ae6c-7ea0962a40f5-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-results/a8334f17-15f1-417b-9d94-d2d2ca62d689-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-results/aa9964e0-7799-4437-80de-92928479e64a-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-results/aed78d5b-6599-4ca3-8ff1-06678e76ebb7-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-results/b1901b46-4240-465e-b0ce-420ab45eb993-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-results/b2412359-51e4-49ec-a9c2-b92b8c2eeeab-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-results/b25cf44e-0e1b-4de0-8295-0cf6f508bb98-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-results/b4f41841-0349-4467-9edf-cafa9c7ad12a-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-results/b736744a-3f3a-47d6-aaa7-696581daac8e-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-results/b94d0a4d-050d-43eb-8211-49ee92731cbe-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-results/bfb1eac4-64cf-4355-9d58-9baa633ce5e8-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-results/c061f03d-bfea-4618-893f-91ed150abd39-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-results/c2f6b82c-9a10-4a6e-bae2-7d373b02f375-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-results/c55b0e12-ddba-42aa-a991-35f7091845c4-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-results/c7375f07-19de-4b3b-9ac0-956678c80b0b-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-results/d0a7f56a-4211-43b6-9659-6acdbe1121e5-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-results/d108c24c-d7d7-437b-abd9-75276c36f6c7-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-results/d62005e1-928b-43e8-a382-d5950b8534d9-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-results/d667c899-61e0-4d87-94a2-ff0e480d0b9a-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-results/d7485f07-9733-4b92-a968-027a0afe3ad1-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-results/d8628d72-745c-40ac-afa9-f60890917839-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-results/d990eb3a-a8bf-44f8-bffa-70f666f21e52-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-results/dc62fd19-8485-4eaf-8a1a-5ef24f16ca94-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-results/e2fc5dd9-dd74-4ce0-bd8c-e77528d7aefc-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-results/e3d1ca19-fe33-48f5-b595-c2e4a2d4cfcc-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-results/e468ce30-8cc7-49ee-9a9a-9b178012b354-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-results/ea4af962-c177-4ba5-83d9-6ad5102466ab-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-results/ec177c0a-5d4d-4e83-b5f4-32aea82981bb-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-results/ec17908c-b2aa-4c10-9ff9-b9878f923495-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-results/ee937056-02b2-4985-9e17-b905a5405b09-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-results/ef37c325-dca0-41a1-8531-e12e96ca9096-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-results/f0293dd1-f672-4d90-9d1f-3622bc202056-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-results/f32b93da-2cb0-4598-83ba-49d7dc0c78ed-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-results/f60a344a-e178-4ffd-a892-66e7f8b796cb-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-results/f8431179-5190-41bc-ab53-566428c62682-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-results/f9ca61d2-48ed-486a-bba6-7d3e2e71d0b9-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-results/f9dfbbab-8637-4ed6-b68f-a7796739c10f-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Prestashop" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/test/TestCartFunctional.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/test/TestCartFunctional.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/test/TestSearch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/test/TestSearch.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pages/AHeadComponent.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pages/AHeadComponent.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pages/SearchEmptyPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pages/SearchEmptyPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pages/SearchResultPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pages/SearchResultPage.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/tools/TestRunner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/tools/TestRunner.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/data/Category.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/data/Category.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/data/Currencies.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/data/Currencies.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/pages/AHeadComponent$DropdownOptions.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/pages/AHeadComponent$DropdownOptions.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/pages/AHeadComponent.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/pages/AHeadComponent.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/pages/CategoryPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/pages/CategoryPage.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/pages/HomePage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/pages/HomePage.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/pages/ProductComponent.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/pages/ProductComponent.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/pages/ProductListComponent.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/pages/ProductListComponent.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/pages/SearchEmptyPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/pages/SearchEmptyPage.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/pages/SearchResultPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/pages/SearchResultPage.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/pages/SelectSomeClothesPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/pages/SelectSomeClothesPage.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/pages/ShoppingCartPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/pages/ShoppingCartPage.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/test/CurrencyTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/test/CurrencyTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/test/HorizontalAndVerticalTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/test/HorizontalAndVerticalTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/test/TestCartFunctional.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/test/TestCartFunctional.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/test/TestSearch.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/test/TestSearch.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/test-classes/tools/TestRunner.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/tools/TestRunner.class" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -172,18 +72,18 @@
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Programing\IntelliJ IDEA Projects\SET\prestashop\src\test\java\com\softserve\edu\prestashop\pages" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\Programing\IntelliJ IDEA Projects\SET\prestashop\src\test\java\test" />
       <recent name="D:\Programing\IntelliJ IDEA Projects\SET\prestashop\src\main\java\pages" />
       <recent name="D:\Programing\IntelliJ IDEA Projects\SET\prestashop\src\main\java\data" />
       <recent name="D:\Programing\IntelliJ IDEA Projects\SET\prestashop\src\main\resources" />
       <recent name="D:\Programing\IntelliJ IDEA Projects\SET\prestashop\src\test\java" />
-    </key>
-    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
-      <recent name="" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\Programing\IntelliJ IDEA Projects\SET\prestashop\src\test\java\com\softserve\edu\prestashop\pages" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -198,8 +98,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="TestNG.AllureTestCurrency">
-    <configuration name="AllureTestCurrency" type="TestNG" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="TestNG.E:/demo3/Prestashop/testng.xml">
+    <configuration name="test in prestashop" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="prestashop" />
       <extension name="coverage">
         <pattern>
@@ -208,15 +108,12 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="test" />
-      <option name="MAIN_CLASS_NAME" value="test.AllureTestCurrency" />
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
+      <option name="TEST_OBJECT" value="package" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="D:/Programing/IntelliJ IDEA Projects/SET/prestashop/testng.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="E:/demo3/Prestashop/testng.xml" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="prestashop" />
       <option name="SUITE_NAME" value="$PROJECT_DIR$/testng.xml" />
       <option name="TEST_OBJECT" value="SUITE" />
@@ -226,51 +123,54 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HorizontalAndVerticalTest" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="testAPI.firtsTest" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="prestashop" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="test.*" />
+          <option name="PATTERN" value="testAPI.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.softserve.edu.prestashop.test" />
-      <option name="MAIN_CLASS_NAME" value="test.HorizontalAndVerticalTest" />
-      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="PACKAGE_NAME" value="testAPI" />
+      <option name="MAIN_CLASS_NAME" value="testAPI.testAPI" />
+      <option name="METHOD_NAME" value="firtsTest" />
+      <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestCartFunctional" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="testAPI.getJson" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="prestashop" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="test.*" />
+          <option name="PATTERN" value="testAPI.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="test" />
-      <option name="MAIN_CLASS_NAME" value="test.TestCartFunctional" />
-      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="PACKAGE_NAME" value="testAPI" />
+      <option name="MAIN_CLASS_NAME" value="testAPI.testAPI" />
+      <option name="METHOD_NAME" value="getJson" />
+      <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestSearch" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="testAPI.getShopingGroup" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="prestashop" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="test.*" />
+          <option name="PATTERN" value="testAPI.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="test" />
-      <option name="MAIN_CLASS_NAME" value="test.TestSearch" />
-      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="PACKAGE_NAME" value="testAPI" />
+      <option name="MAIN_CLASS_NAME" value="testAPI.testAPI" />
+      <option name="METHOD_NAME" value="getShopingGroup" />
+      <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
       <method v="2">
@@ -279,15 +179,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="TestNG.TestSearch" />
-        <item itemvalue="TestNG.D:/Programing/IntelliJ IDEA Projects/SET/prestashop/testng.xml" />
-        <item itemvalue="TestNG.TestCartFunctional" />
-        <item itemvalue="TestNG.HorizontalAndVerticalTest" />
-        <item itemvalue="TestNG.AllureTestCurrency" />
-        <item itemvalue="TestNG.D:/Programing/IntelliJ IDEA Projects/SET/prestashop/testng.xml" />
-        <item itemvalue="TestNG.TestCartFunctional" />
-        <item itemvalue="TestNG.HorizontalAndVerticalTest" />
-        <item itemvalue="TestNG.TestSearch" />
+        <item itemvalue="TestNG.E:/demo3/Prestashop/testng.xml" />
+        <item itemvalue="JUnit.test in prestashop" />
+        <item itemvalue="TestNG.testAPI.getShopingGroup" />
+        <item itemvalue="TestNG.testAPI.getJson" />
+        <item itemvalue="TestNG.testAPI.firtsTest" />
       </list>
     </recent_temporary>
   </component>
@@ -344,6 +240,7 @@
   <component name="VcsManagerConfiguration">
     <ignored-roots>
       <path value="$PROJECT_DIR$/.." />
+      <path value="$PROJECT_DIR$/Prestashop" />
     </ignored-roots>
     <MESSAGE value="screenshot" />
     <option name="LAST_COMMIT_MESSAGE" value="screenshot" />

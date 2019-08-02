@@ -1,11 +1,13 @@
 package pages;
 
+import io.qameta.allure.Step;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.interactions.Actions;
 import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.PageFactory;
+
 import java.util.ArrayList;
 import java.util.List;
 
@@ -15,7 +17,6 @@ public class AHeadComponent {
 
     protected WebDriver driver;
     //
-
 
 
     @FindBy(css = "#category-6")
@@ -50,11 +51,15 @@ public class AHeadComponent {
 
     @FindBy(xpath = "//*[@class='btn btn-primary add-to-cart']")
     private WebElement buttonAddToCart;
+
+    //Shevchuk Oleksii
     @FindBy(css = "input.ui-autocomplete-input")
     private WebElement searchField;
 
     @FindBy(css = "button>i.material-icons.search")
     private WebElement searchButton;
+    //-----
+
 
     @FindBy(css = ".logo.img-responsive")
     private WebElement logo;
@@ -83,14 +88,17 @@ public class AHeadComponent {
     public String getCurrencyTextUsd() {
         return getCurrencyUsd().getAttribute("title");
     }
+
     public WebElement getSearchField() {
         return searchField;
     }
-
+    //--------------Shevchuk Oleksii
+    @Step("Add text in search field")
     public void setTextSearchField(String text) {
         getSearchField().sendKeys(text);
     }
 
+    @Step("Clear serach field")
     public void clearTextInSearchField() {
         getSearchField().clear();
     }
@@ -105,6 +113,7 @@ public class AHeadComponent {
     public void clickSearchButton() {
         getSearchButton().click();
     }
+
     // CurrencyUa
     public WebElement getCurrencyUa() {
         return currencyUa;
@@ -130,9 +139,6 @@ public class AHeadComponent {
     public String getCurrencyTextEu() {
         return getCurrencyEu().getAttribute("title");
     }
-
-
-
 
 
     //Product
@@ -161,6 +167,7 @@ public class AHeadComponent {
     public void clickButtonAddToCart() {
         getButtonAddToCart().click();
     }
+
     //CartButton
     public WebElement getCartButton() {
         return cartButton;

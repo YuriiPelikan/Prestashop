@@ -1,5 +1,6 @@
 package pages;
 
+import io.qameta.allure.Step;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
@@ -26,7 +27,7 @@ public class SearchResultPage extends AHeadComponent {
     //private List<WebElement> ddmenu = driver.findElements(By.cssSelector("a[rel=\"nofollow\"].select-list"));
     // List<WebElement> relev=driver.findElements(By.cssSelector("input.ui-autocomplete-input"));
 
-
+    @Step("Get list elements for sorting")
     public ArrayList<WebElement> getListSortElements() {
         return listSortElements;
     }
@@ -39,7 +40,7 @@ public class SearchResultPage extends AHeadComponent {
 
     }
 
-
+    @Step("Set list with sorted elements")
     public List<WebElement> setListSortsEelements(List<WebElement> elements) {
         for (WebElement el : elements) {
             listSortElements.add(el);
@@ -47,15 +48,17 @@ public class SearchResultPage extends AHeadComponent {
         return listSortElements;
     }
 
+    @Step("get drop down menu")
     public List<WebElement> getDdmenu() {
         return ddmenu;
     }
 
-
+    @Step("get drop down putton SortBy")
     public WebElement getSortBy() {
         return sortButtonBy;
     }
 
+    @Step("click on button sortBy")
     public void clickSortButtonBy() {
         getSortBy().click();
     }

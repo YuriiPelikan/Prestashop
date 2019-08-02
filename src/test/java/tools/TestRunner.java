@@ -39,7 +39,7 @@ public abstract class TestRunner {
 
     @BeforeMethod
     public void beforeMethod() {
-        driver.get("http://35.225.39.45/index.php?id_lang=1");
+        driver.get("http://35.225.39.45/index.php");
     }
 
     protected HomePage loadApplication() {
@@ -60,34 +60,25 @@ public abstract class TestRunner {
     }
 
 
-//    @Attachment(value = "Web Page Screenshot", type = "image/png")
-//    public byte[] takeScreenshot() {
-//        // Take a screenshot as byte array and return
-//        return ((TakesScreenshot)driver).getScreenshotAs(OutputType.BYTES);
-//    }
-//
-//
-//
-//    @AfterMethod
-//    public void afterMethod(ITestResult testResult) {
-//        if (!testResult.isSuccess()) {
-//            takeScreenshot();
-//          //  driver.get("http://regres.herokuapp.com/logout");
-//        }
-//    }
+    @Attachment(value = "Web Page Screenshot", type = "image/png")
+    public byte[] takeScreenshot() {
+        // Take a screenshot as byte array and return
+        return ((TakesScreenshot)driver).getScreenshotAs(OutputType.BYTES);
+    }
 
 
 
+    @AfterMethod
+    public void afterMethod(ITestResult testResult) {
+        if (!testResult.isSuccess()) {
+            takeScreenshot();
+        }
+    }
 
     @AfterClass(alwaysRun = true)
     public void tearDown() {
         driver.quit();
     }
-
-
-
-
-
 
 }
 
