@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1c94c80e-4c05-47ba-958b-7d6ac560b3c6" name="Default Changelist" comment="screenshot" />
+    <list default="true" id="1c94c80e-4c05-47ba-958b-7d6ac560b3c6" name="Default Changelist" comment="screenshot">
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/pages/AHeadComponent$DropdownOptions.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/pages/AHeadComponent$DropdownOptions.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/pages/AHeadComponent.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/pages/AHeadComponent.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/testAPI/testAPI.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/testAPI/testAPI.class" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
