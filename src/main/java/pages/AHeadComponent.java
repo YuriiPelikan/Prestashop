@@ -17,7 +17,8 @@ public class AHeadComponent {
 
     protected WebDriver driver;
     //
-
+    @FindBy(css = "#_desktop_user_info > div > a > span")
+    private WebElement signIn;
 
     @FindBy(css = "#category-6")
     private WebElement accessoriesButton;
@@ -92,6 +93,7 @@ public class AHeadComponent {
     public WebElement getSearchField() {
         return searchField;
     }
+
     //--------------Shevchuk Oleksii
     @Step("Add text in search field")
     public void setTextSearchField(String text) {
@@ -298,4 +300,21 @@ public class AHeadComponent {
         getDropdownOptions().clickDropdownOptionByPartialName(optionName);
         dropdownOptions = null;
     }
+
+    //-------Sign in--------- Horak Orest ------------
+    @Step("get sign in button")
+    public WebElement getSignIn() {
+        return signIn;
+    }
+
+    @Step("get text of sign in")
+    public String getSignInText() {
+        return getSignIn().getText();
+    }
+
+    @Step("click sign in button")
+    public void clickSignIn() {
+        getSignIn().click();
+    }
+
 }

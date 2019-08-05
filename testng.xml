@@ -1,12 +1,12 @@
 <!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
 <suite name="TestSuite">
-    <test name="HorizontalAndVerticalTest">
+    <test name="PrestashopTest">
         <classes>
             <class name="test.TestSearch" />
             <class name="test.HorizontalAndVerticalTest" />
             <class name="test.TestCartFunctional" />
             <class name="test.CurrencyTest" />
-
+            <class name="test.TestLoginForm" />
         </classes>
     </test>
 </suite>
