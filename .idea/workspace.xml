@@ -2,10 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1c94c80e-4c05-47ba-958b-7d6ac560b3c6" name="Default Changelist" comment="screenshot">
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/pages/AHeadComponent$DropdownOptions.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/pages/AHeadComponent$DropdownOptions.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/pages/AHeadComponent.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/pages/AHeadComponent.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/testAPI/testAPI.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/testAPI/testAPI.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pages/AHeadComponent.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pages/AHeadComponent.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pages/ProductComponent.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pages/ProductComponent.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pages/ProductListComponent.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pages/ProductListComponent.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pages/SelectSomeClothesPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pages/SelectSomeClothesPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/test/TestCartFunctional.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/test/TestCartFunctional.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -88,7 +90,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="TestNG.E:/demo3/Prestashop/testng.xml">
+  <component name="RunManager" selected="TestNG.TestCartFunctional">
     <configuration name="test in prestashop" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="prestashop" />
       <extension name="coverage">
@@ -113,18 +115,17 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="testAPI.firtsTest" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="TestCartFunctional" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="prestashop" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="testAPI.*" />
+          <option name="PATTERN" value="test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="testAPI" />
-      <option name="MAIN_CLASS_NAME" value="testAPI.testAPI" />
-      <option name="METHOD_NAME" value="firtsTest" />
-      <option name="TEST_OBJECT" value="METHOD" />
+      <option name="PACKAGE_NAME" value="test" />
+      <option name="MAIN_CLASS_NAME" value="test.TestCartFunctional" />
+      <option name="TEST_OBJECT" value="CLASS" />
       <properties />
       <listeners />
       <method v="2">
@@ -169,11 +170,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.TestCartFunctional" />
         <item itemvalue="TestNG.E:/demo3/Prestashop/testng.xml" />
         <item itemvalue="JUnit.test in prestashop" />
         <item itemvalue="TestNG.testAPI.getShopingGroup" />
         <item itemvalue="TestNG.testAPI.getJson" />
-        <item itemvalue="TestNG.testAPI.firtsTest" />
       </list>
     </recent_temporary>
   </component>

@@ -1,14 +1,16 @@
 package pages;
 
+import io.qameta.allure.Step;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebElement;
 
-public  class ProductComponent {
+public class ProductComponent {
 
     private WebElement productLayout;//тримає в собі один елемент
     private WebElement name;
     private WebElement price;
 
+    //отримує з якої компоненти її проініціалізувати
     public ProductComponent(WebElement productLayout) {
         this.productLayout = productLayout;
         initProductComponent();
@@ -29,6 +31,7 @@ public  class ProductComponent {
         return name;
     }
 
+    @Step("Get text from name")
     public String getNameText() {
         return getName().getText().trim();
     }
@@ -38,10 +41,12 @@ public  class ProductComponent {
         return price;
     }
 
+    @Step("Get text from price")
     public String getPriceText() {
         return getPrice().getText();
     }
 
+    @Step("Click to product")
     public void clickToProduct() {
         getName().click();
     }

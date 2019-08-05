@@ -10,15 +10,16 @@ import java.util.List;
 public class ProductListComponent {
 
     private WebDriver driver;
-    private List<ProductComponent> productComponents;
+    private List<ProductComponent> productComponents;//поле, яке відповідає за ProductComponent
 
+    //на конструкторі отримуємо драйвер
     public ProductListComponent(WebDriver driver) {
         this.driver = driver;
         initProductComponent();
     }
 
     private void initProductComponent() {
-        productComponents = new ArrayList<ProductComponent>();
+        productComponents = new ArrayList<ProductComponent>();//створюю новий list ProductComponent
         for (WebElement current : driver.findElements(By.cssSelector(".product-miniature"))) {
             productComponents.add(new ProductComponent(current));
         }
@@ -29,7 +30,7 @@ public class ProductListComponent {
         return productComponents;
     }
 
-
+    //дозволяд віддати окремий елемент
     public ProductComponent getProductComponentByPartialName(String partialProductName) {
         ProductComponent result = null;
         for (ProductComponent current : getProductComponents()) {
@@ -39,7 +40,6 @@ public class ProductListComponent {
             }
         }
         return result;
-
     }
 
 }

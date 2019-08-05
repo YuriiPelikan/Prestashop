@@ -1,5 +1,6 @@
 package pages;
 
+import io.qameta.allure.Step;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
@@ -18,7 +19,7 @@ public class ShoppingCartPage extends AHeadComponent {
     @FindBy(css = "a.remove-from-cart>i")
     private WebElement deleteButton;
 
-    @FindBy(xpath = "//*[@id=\"blockcart-modal\"]/div/div/div[2]/div/div[2]/div/div/a")
+    @FindBy(xpath = "//a[@class=\"btn btn-primary\"]")
     private WebElement orderButton;
 
     @FindBy(css = ".no-items")
@@ -34,6 +35,7 @@ public class ShoppingCartPage extends AHeadComponent {
         return productName;
     }
 
+    @Step("Get text from product name")
     public String getProductNameText() {
         return getProductName().getText();
     }
@@ -43,6 +45,7 @@ public class ShoppingCartPage extends AHeadComponent {
         return deleteButton;
     }
 
+    @Step("Click on delete button")
     public void clickDeleteButton() {
         getDeleteButton().click();
     }
@@ -52,6 +55,7 @@ public class ShoppingCartPage extends AHeadComponent {
         return productPrice;
     }
 
+    @Step("Get text from product price")
     public String getProductPriceText() {
         return getProductPrice().getText();
     }
@@ -61,6 +65,7 @@ public class ShoppingCartPage extends AHeadComponent {
         return orderButton;
     }
 
+    @Step("Click on order button")
     public void clickOrderButton() {
         getOrderButton().click();
     }
@@ -70,6 +75,7 @@ public class ShoppingCartPage extends AHeadComponent {
         return ProductMessage;
     }
 
+    @Step("Get text from product message")
     public String getProductMessageText() {
         return getProductMessage().getText();
     }
@@ -79,6 +85,7 @@ public class ShoppingCartPage extends AHeadComponent {
         return increaseAmountButton;
     }
 
+    @Step("Click on increase button")
     public void clickIncreaseAmountButton() {
         getIncreaseAmountButton().click();
     }

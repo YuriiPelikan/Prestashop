@@ -168,15 +168,14 @@ public class AHeadComponent {
         getButtonAddToCart().click();
     }
 
-    //CartButton
+    //Pelikan Yurii
+    //CartButton...........
+
     public WebElement getCartButton() {
         return cartButton;
     }
 
-    public String getCartButtonText() {
-        return getCartButton().getText();
-    }
-
+    @Step("Click on shopping cart button")
     public void clickShoppingCart() {
         getCartButton().click();
     }
@@ -185,6 +184,7 @@ public class AHeadComponent {
         this.driver = driver;
         PageFactory.initElements(driver, this);
     }
+    //......................
 
     private class DropdownOptions {
 
