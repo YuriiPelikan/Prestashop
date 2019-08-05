@@ -2,13 +2,31 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1c94c80e-4c05-47ba-958b-7d6ac560b3c6" name="Default Changelist" comment="screenshot">
+      <change afterPath="$PROJECT_DIR$/allure-results/0d000a66-c87d-429a-9974-9c89c355fd79-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/2bbf6a10-cf67-4f13-87dc-f21cbf42ad18-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/2e812ca5-b8fa-4e60-87d2-305e755bcc59-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/362563af-4b09-46c2-941c-a7dad82a7c87-attachment" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/4209a2d3-76ca-4213-b0d1-e25a21d2dc6d-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/440b1912-8514-4456-878b-269390aa50a8-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/4721f7b6-c192-4612-8a9e-90dad6c08c37-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/489bf153-5bdb-4ae0-9abc-75d732f7a375-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/50736bf5-4a60-429a-8839-82af1afc9826-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/5f236979-b45f-4b67-8ff9-2e42f34df757-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/8f44d041-0d99-4c55-8cb5-7b4feb779613-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/afa6b1a0-7ccd-4b91-947f-d87c1da200cf-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/e4b17f7f-ff64-402c-b8db-e835a07c1f5e-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pages/LoginPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pages/MyAccount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pages/UserInformation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/test/TestLoginForm.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/pages/AHeadComponent.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pages/AHeadComponent.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/pages/ProductComponent.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pages/ProductComponent.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/pages/ProductListComponent.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pages/ProductListComponent.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/pages/SelectSomeClothesPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pages/SelectSomeClothesPage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/test/TestCartFunctional.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/test/TestCartFunctional.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/pages/AHeadComponent$DropdownOptions.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/pages/AHeadComponent$DropdownOptions.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/pages/AHeadComponent.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/pages/AHeadComponent.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testng.xml" beforeDir="false" afterPath="$PROJECT_DIR$/testng.xml" afterDir="false" />
     </list>
+    <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -20,6 +38,22 @@
   </component>
   <component name="DefaultGradleProjectSettings">
     <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test/java/test/TestLoginForm.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="267">
+              <caret line="15" column="29" lean-forward="true" selection-start-line="15" selection-start-column="29" selection-end-line="15" selection-end-column="30" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -34,6 +68,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/main/java/pages/LoginPage.java" />
+        <option value="$PROJECT_DIR$/src/main/java/pages/MyAccount.java" />
+        <option value="$PROJECT_DIR$/src/main/java/pages/UserInformation.java" />
+        <option value="$PROJECT_DIR$/src/test/java/test/TestLoginForm.java" />
+        <option value="$PROJECT_DIR$/src/main/java/pages/AHeadComponent.java" />
+        <option value="$PROJECT_DIR$/testng.xml" />
+      </list>
+    </option>
+  </component>
   <component name="MavenImportPreferences">
     <option name="importingSettings">
       <MavenImportingSettings>
@@ -44,9 +90,77 @@
   <component name="ProjectCodeStyleSettingsMigration">
     <option name="version" value="1" />
   </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="85" />
+    <option name="y" value="25" />
+    <option name="width" value="1750" />
+    <option name="height" value="980" />
+  </component>
   <component name="ProjectId" id="1OhKzlSt7sEA2re1c8AaAwmcUXm" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Prestashop" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Prestashop" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Prestashop" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Prestashop" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Prestashop" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Prestashop" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Prestashop" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Prestashop" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Prestashop" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Prestashop" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Prestashop" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Prestashop" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="testAPI" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Prestashop" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Prestashop" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="tools" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
@@ -54,7 +168,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/allure-results" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
@@ -64,18 +178,19 @@
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
-      <recent name="" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\Programing\IntelliJ IDEA Projects\SET\prestashop\src\test\java\com\softserve\edu\prestashop\pages" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\Programing\IntelliJ IDEA Projects\SET\prestashop\src\test\java\test" />
       <recent name="D:\Programing\IntelliJ IDEA Projects\SET\prestashop\src\main\java\pages" />
       <recent name="D:\Programing\IntelliJ IDEA Projects\SET\prestashop\src\main\java\data" />
       <recent name="D:\Programing\IntelliJ IDEA Projects\SET\prestashop\src\main\resources" />
       <recent name="D:\Programing\IntelliJ IDEA Projects\SET\prestashop\src\test\java" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\SOFTSERVE\DEMO_3\Prestashop\allure-results" />
+      <recent name="D:\Programing\IntelliJ IDEA Projects\SET\prestashop\src\test\java\com\softserve\edu\prestashop\pages" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -90,7 +205,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="TestNG.TestCartFunctional">
+  <component name="RunManager" selected="TestNG.TestLoginForm">
     <configuration name="test in prestashop" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="prestashop" />
       <extension name="coverage">
@@ -132,18 +247,17 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="testAPI.getJson" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="TestLoginForm" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="prestashop" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="testAPI.*" />
+          <option name="PATTERN" value="test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="testAPI" />
-      <option name="MAIN_CLASS_NAME" value="testAPI.testAPI" />
-      <option name="METHOD_NAME" value="getJson" />
-      <option name="TEST_OBJECT" value="METHOD" />
+      <option name="PACKAGE_NAME" value="test" />
+      <option name="MAIN_CLASS_NAME" value="test.TestLoginForm" />
+      <option name="TEST_OBJECT" value="CLASS" />
       <properties />
       <listeners />
       <method v="2">
@@ -170,11 +284,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.TestLoginForm" />
         <item itemvalue="TestNG.TestCartFunctional" />
         <item itemvalue="TestNG.E:/demo3/Prestashop/testng.xml" />
         <item itemvalue="JUnit.test in prestashop" />
         <item itemvalue="TestNG.testAPI.getShopingGroup" />
-        <item itemvalue="TestNG.testAPI.getJson" />
       </list>
     </recent_temporary>
   </component>
@@ -195,8 +309,46 @@
     </task>
     <servers />
   </component>
+  <component name="TestHistory">
+    <history-entry file="TestLoginForm - 2019.08.05 at 16h 15m 02s.xml">
+      <configuration name="TestLoginForm" configurationId="TestNG" />
+    </history-entry>
+  </component>
   <component name="TimeTrackingManager">
     <option name="totallyTimeSpent" value="63993000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Favorites" order="0" side_tool="true" />
+      <window_info id="Image Layers" order="1" />
+      <window_info id="Designer" order="2" />
+      <window_info id="UI Designer" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="Learn" order="5" weight="0.3295302" />
+      <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
+      <window_info content_ui="combo" id="Project" order="7" visible="true" weight="0.24966443" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Terminal" weight="0.3286119" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3286119" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Palette" />
+      <window_info anchor="right" id="Theme Preview" />
+      <window_info anchor="right" id="Maven" />
+      <window_info anchor="right" id="Capture Analysis" />
+      <window_info anchor="right" id="Palette&#9;" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
@@ -207,6 +359,12 @@
         <entry key="MAIN">
           <value>
             <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
               <option name="COLUMN_ORDER" />
             </State>
           </value>
@@ -235,5 +393,161 @@
     </ignored-roots>
     <MESSAGE value="screenshot" />
     <option name="LAST_COMMIT_MESSAGE" value="screenshot" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/java/pages/ProductComponent.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/pages/HomePage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/pages/CategoryPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/pages/ProductListComponent.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/pages/SearchEmptyPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/pages/SearchResultPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/pages/SelectSomeClothesPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/pages/ShoppingCartPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-312">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/tools/TestRunner.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-470">
+          <caret line="25" column="22" selection-start-line="25" selection-start-column="22" selection-end-line="25" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/pages/AHeadComponent.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="538">
+          <caret line="318" selection-start-line="318" selection-end-line="318" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#5386#5394#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/pages/LoginPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="312">
+          <caret line="58" column="30" selection-start-line="58" selection-start-column="30" selection-end-line="58" selection-end-column="30" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/pages/MyAccount.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/pages/UserInformation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#3532#3533#0" expanded="true" />
+            <element signature="e#3569#3570#0" expanded="true" />
+            <element signature="e#3639#3640#0" expanded="true" />
+            <element signature="e#3676#3677#0" expanded="true" />
+            <element signature="e#3771#3772#0" expanded="true" />
+            <element signature="e#3804#3805#0" expanded="true" />
+            <element signature="e#3872#3873#0" expanded="true" />
+            <element signature="e#3911#3912#0" expanded="true" />
+            <element signature="e#4006#4007#0" expanded="true" />
+            <element signature="e#4039#4040#0" expanded="true" />
+            <element signature="e#4107#4108#0" expanded="true" />
+            <element signature="e#4146#4147#0" expanded="true" />
+            <element signature="e#4234#4235#0" expanded="true" />
+            <element signature="e#4267#4268#0" expanded="true" />
+            <element signature="e#4335#4336#0" expanded="true" />
+            <element signature="e#4374#4375#0" expanded="true" />
+            <element signature="e#4479#4480#0" expanded="true" />
+            <element signature="e#4515#4516#0" expanded="true" />
+            <element signature="e#4590#4591#0" expanded="true" />
+            <element signature="e#4632#4633#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/allure-results/50736bf5-4a60-429a-8839-82af1afc9826-container.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="44" lean-forward="true" selection-start-column="44" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testng.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="8" column="43" selection-start-line="8" selection-start-column="43" selection-end-line="8" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/runallure.bat">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/test/TestLoginForm.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="267">
+          <caret line="15" column="29" lean-forward="true" selection-start-line="15" selection-start-column="29" selection-end-line="15" selection-end-column="30" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
   </component>
 </project>
