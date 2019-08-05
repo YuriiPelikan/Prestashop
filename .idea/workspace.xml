@@ -1,31 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1c94c80e-4c05-47ba-958b-7d6ac560b3c6" name="Default Changelist" comment="screenshot">
-      <change afterPath="$PROJECT_DIR$/allure-results/0d000a66-c87d-429a-9974-9c89c355fd79-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/2bbf6a10-cf67-4f13-87dc-f21cbf42ad18-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/2e812ca5-b8fa-4e60-87d2-305e755bcc59-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/362563af-4b09-46c2-941c-a7dad82a7c87-attachment" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/4209a2d3-76ca-4213-b0d1-e25a21d2dc6d-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/440b1912-8514-4456-878b-269390aa50a8-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/4721f7b6-c192-4612-8a9e-90dad6c08c37-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/489bf153-5bdb-4ae0-9abc-75d732f7a375-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/50736bf5-4a60-429a-8839-82af1afc9826-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/5f236979-b45f-4b67-8ff9-2e42f34df757-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/8f44d041-0d99-4c55-8cb5-7b4feb779613-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/afa6b1a0-7ccd-4b91-947f-d87c1da200cf-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/e4b17f7f-ff64-402c-b8db-e835a07c1f5e-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pages/LoginPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pages/MyAccount.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pages/UserInformation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/test/TestLoginForm.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/pages/AHeadComponent.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pages/AHeadComponent.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/pages/AHeadComponent$DropdownOptions.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/pages/AHeadComponent$DropdownOptions.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/pages/AHeadComponent.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/pages/AHeadComponent.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/testng.xml" beforeDir="false" afterPath="$PROJECT_DIR$/testng.xml" afterDir="false" />
-    </list>
+    <list default="true" id="1c94c80e-4c05-47ba-958b-7d6ac560b3c6" name="Default Changelist" comment="screenshot" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -330,7 +306,7 @@
       <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
       <window_info content_ui="combo" id="Project" order="7" visible="true" weight="0.24966443" />
       <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Terminal" weight="0.3286119" />
+      <window_info active="true" anchor="bottom" id="Terminal" visible="true" weight="0.3286119" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Messages" />
       <window_info anchor="bottom" id="Message" order="0" />

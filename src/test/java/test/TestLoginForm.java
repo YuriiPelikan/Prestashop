@@ -69,6 +69,7 @@ public class TestLoginForm extends tools.TestRunner {
 
 
         MyAccount accountpage = new MyAccount(driver);
+        Assert.assertFalse(accountpage.getSignOutButton().isDisplayed());
         accountpage.clickSignOutButton();
 
     }
